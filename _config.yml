@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Yiyao Duuu (杜奕瑶)"
-description              : "Undergraduate student at Ningbo University of Finance and Economics"
+description              : "Undergraduate student at Ningbo University of Finance and Economics
+                             Postgraduate student at Zhejiang University of Finance and Economics"
 repository               : "https://github.com/111yaoduuu"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +25,7 @@ author:
   name             : "Yiyao Du"
   avatar           : "images/avatar.jpg"
   bio              : "Ningbo University of Finance and Economics"
-  location         : "Hangzhou, China"
+  location         : "Jinhua, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en"
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "111yaoduuu"
+  github           : "https://111yaoduuu.github.io/"
   google_plus      :
   keybase          :
   instagram        :
