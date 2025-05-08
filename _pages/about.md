@@ -47,27 +47,28 @@ I have a wide range of interests in machine learning and deep learning models, a
 - *2022.06 - 2022.08*: Jinhua Hongzheng Technology Co., Ltd. , Jinhua, China
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
-- *2024.05*: &nbsp;🎉🎉 We won the **Provincial Silver Medal** in the 14th Zhejiang Province ‘Challenge Cup’ College Students’ Entrepreneurship Plan Competition!
-- *2024.05*: &nbsp;🎉🎉 We won the **National Bronze Medal** in the [China University Student Service Outsourcing Innovation and Entrepreneurship Competition 2024](http://www.fwwb.org.cn)!
-- *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE JBHI](https://www.embs.org/jbhi/) was **Accepted**!
-- *2024.04*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was selected for **Oral Presentation**!
-- *2024.02*: &nbsp;🎉🎉 Our new paper for [IEEE ISBI 2024](https://biomedicalimaging.org/2024) was **Accepted**!
-- *2023.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2023](https://cy.ncss.cn)!
-- *2023.05*: &nbsp;🎉🎉 Our new paper for [MICCAI 2023](https://conferences.miccai.org/2023/en/) was **Accpted**!
-- *2023.06*: &nbsp;🎉🎉 Our new paper for [ICSIP 2023](https://www.icsip.org/2023.html) was **Accepted**!
+
+- *2023.10*: &nbsp;🎉🎉 We won the **second prize** in Zhejiang Division of the "Higher Education Press Cup" National Undergraduate Mathematical Modeling Competition
+- *2023.02*: &nbsp;🎉🎉 I Won the **S award** in the American Undergraduate Mathematical Modeling Contest
+- *2022.10*: &nbsp;🎉🎉 We won the **third prize** in Zhejiang Division of the "Higher Education Press Cup" National Undergraduate Mathematical Modeling Competition
+- *2022.09*: &nbsp;🎉🎉 I Won the **Special Prize** in the preliminary round of the "Foreign Language Teaching and Research Press·National Talent Cup" National English Writing Competition
+- *2022.08*: &nbsp;🎉🎉 We won the **third prize** of the undergraduate group of the 3rd "Huasu Cup" National Undergraduate Mathematical Modeling Competition
+- *2022.06*: &nbsp;🎉🎉 We won the **third prize** in the undergraduate group of the 17th Zhejiang Province "Yaowang Cup" College Student E-commerce Competition
+- *2021.09*: &nbsp;🎉🎉 I Won the **third prize** in the preliminary round of the "Foreign Language Teaching and Research Press·National Talent Cup" National English Writing Competition
 
 # 🏅 Honors
 
-- *2023-2024*: National Scholarship (**Top 0.4%**)
-- *2023-2024*: [Top 10 Students of HDU-ITMO Joint Institute](https://mp.weixin.qq.com/s/RFjA5qvCV8Tyaz0dk7Jwhg) (**Top 1.25%**)
 - *2022-2023*: Zhejiang Provincial Government Scholarship (**Top 3%**)
+- *2021-2022*: Third-class academic scholarship at the university level
 - *2021-2022*: Zhejiang Provincial Government Scholarship (**Top 3%**)
+- *2021-2022*: First-class academic scholarship at the university level 
+- *2020-2021*: Zhejiang Provincial Government Scholarship (**Top 3%**)
+- *2020-2021*: First-class academic scholarship at the university level 
 
 # 💰 Funding
 
-- *2024*: National Undergraduate Innovation and Entrepreneurship Training Program (**Key Member**)
-- *2024*: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**)
+- *2023*: University-level undergraduate research project "Full-link cost reduction and efficiency improvement crop decision-making system based on intelligent algorithms" (**Project Leader**)
+- *2022*: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**)
 
 # 💡 Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en) page for full publications.
