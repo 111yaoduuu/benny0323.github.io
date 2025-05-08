@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😉 About Me
 I graduated from [Ningbo University of Finance and Economics](https://www.nbufe.edu.cn/) with a major in software engineering, and my supervisor is Prof. Yanfei Zhao.And I plan to pursue a master's degree in applied statistics at Zhejiang University of Finance and Economics, with [Prof. Yongquan Zhang](https://person.zufe.edu.cn/ZhangYongquan/zh_CN/index.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).as my supervisors, and my research direction is big data statistics and analysis.
+
 I have a wide range of interests in machine learning and deep learning models, and I have studied related courses in my undergraduate studies, so I chose this direction as my postgraduate study direction. 
 
 📫 How to contact me: [dyy1215733706@163.com](dyy1215733706@163.com).
