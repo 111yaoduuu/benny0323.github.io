@@ -43,10 +43,8 @@ I have a wide range of interests in machine learning and deep learning models, a
 - *2025.09 - 2028.01*, Master student: Applied Statistics, [Zhejiang University of Finance and Economics](https://gs.zufe.edu.cn/), Hangzhou, China
 
 # 💻 Internships
-- *2024.11 - 2025.02*: [Hikvision Research](https://www.hikvision.com/cn/) Institute, Hangzhou Hikvision, Hangzhou, China
-- *2023.06 - Present*: Healthcare Big Data Lab, [Shenzhen Research Institute of Big Data](https://www.sribd.cn), Shenzhen, China
-- *2023.06 - Present*: Advanced Networking and Big Data Lab, [Hangzhou Dianzi University](https://www.hdu.edu.cn), Hangzhou, China
-
+- *2023.06 - 2024.01*: [Hangzhou Industrial Chain Digital Technology Co., Ltd.](https://www.induschain.cn/) , Hangzhou, China
+- *2022.06 - 2022.08*: Jinhua Hongzheng Technology Co., Ltd. , Jinhua, China
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We won the **International Bronze Medal** in the [China International College Students' Innovation Competition 2024](https://cy.ncss.cn)!
