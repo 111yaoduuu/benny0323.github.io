@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiyao Du"
   avatar           : "images/avatar.jpg"
-  bio              : "Ningbo University of Finance and Economics"
+  bio              : 
   location         : "Jinhua, China"
   employer         :
   pubmed           : 
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://111yaoduuu.github.io/"
+  github           : "111yaoduuu"
   google_plus      :
   keybase          :
   instagram        :
