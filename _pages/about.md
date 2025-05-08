@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 😉 About Me
-I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **SAM And Diffusion Model-Based CT Metal Artifact Reduction (MAR)**.
-
-I have a broad interest in deep learning models, with a primary focus on **Medical Image Analysis and Generative Models**. I am also an enthusiastic self-learner and interested in various fields of computer science. 
+I graduated from [Ningbo University of Finance and Economics](https://www.nbufe.edu.cn/) with a major in software engineering, and my supervisor is Prof. Yanfei Zhao.And I plan to pursue a master's degree in applied statistics at Zhejiang University of Finance and Economics, with [Prof. Yongquan Zhang](https://person.zufe.edu.cn/ZhangYongquan/zh_CN/index.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).as my supervisors, and my research direction is big data statistics and analysis.
+I have a wide range of interests in machine learning and deep learning models, and I have studied related courses in my undergraduate studies, so I chose this direction as my postgraduate study direction. 
 
 📫 How to contact me: [dyy1215733706@163.com](dyy1215733706@163.com).
 
