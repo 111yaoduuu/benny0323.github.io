@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yiyao Duuu (杜奕瑶)"
-description              : "Undergraduate student at Hangzhou Dianzi University"
-repository               : "https://github.com/Benny0323"
+description              : "Undergraduate student at Ningbo University of Finance and Economics"
+repository               : "https://github.com/111yaoduuu"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yiyao Du"
   avatar           : "images/avatar.jpg"
-  bio              : "Hangzhou Dianzi University"
+  bio              : "Ningbo University of Finance and Economics"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en"
-  email            : "bennychan@hdu.edu.cn"
+  email            : "dyy1215733706@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "benny0323"
+  github           : "111yaoduuu"
   google_plus      :
   keybase          :
   instagram        :
