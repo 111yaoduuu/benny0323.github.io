@@ -71,8 +71,6 @@ I have a wide range of interests in machine learning and deep learning models, a
 - *2022*: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**)
 
 
-</div>
-
 
 
 
