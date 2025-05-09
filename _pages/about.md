@@ -31,7 +31,7 @@ I have a wide range of interests in machine learning and deep learning models, a
   <div class='photo-box-image'><div><img src='images/1.jpg' alt="sym" width="300" height="220"></div></div>
   <div class='photo-box-image'><div><img src='images/2.png' alt="sym" width="300" height="220"></div></div>
   <div class='photo-box-image'><div><img src='images/3.jpg' alt="sym" width="300" height="220"></div></div>
-  <div class='photo-box-image'><div><img src='images/4.jpg' alt="sym" width="300" height="220"></div></div>
+  <div class='photo-box-image'><div><img src='images/4.png' alt="sym" width="300" height="220"></div></div>
   <div class='photo-box-image'><div><img src='images/5.jpg' alt="sym" width="300" height="220"></div></div>
   <div class='photo-box-image'><div><img src='images/6.png' alt="sym" width="300" height="220"></div></div>
 </div>
