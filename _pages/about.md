@@ -69,6 +69,7 @@ I have a wide range of interests in machine learning and deep learning models, a
 
 - *2023*: University-level undergraduate research project "Full-link cost reduction and efficiency improvement crop decision-making system based on intelligent algorithms" (**Project Leader**)
 - *2022*: Zhejiang Provincial Undergraduate Scientific and Technological Innovation Activities Program (**Key Member**)
+- [Hepatocellular Carcinoma Segmentation from Digital Subtraction Angiography Videos Using Learnable Temporal Difference](https://arxiv.org/abs/2107.04306), Jiang, Wenting, Yicheng Jiang, Lu Zhang, **Changmiao Wang**, Xiaoguang Han, Shuixing Zhang, Xiang Wan, and Shuguang Cui. In Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part V, pp. 13-22. Cham: Springer International Publishing, 2021.（EI）
 
 
 
